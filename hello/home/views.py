@@ -17,3 +17,6 @@ def services(request):
 
 def contact(request):
     return HttpResponse("this is Contact page")
+
+def Saurav(request):
+    return HttpResponse("you are welcome") 
